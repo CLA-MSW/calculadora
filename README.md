@@ -20,7 +20,7 @@ git add .
 git commit -m "Descripción del cambio"
 ```
 
-* Envíe sus actualizaciones a Github con el comando:
+* Envíe sus actualizaciones a GitHub con el comando:
 
 ```
 git push origin main
